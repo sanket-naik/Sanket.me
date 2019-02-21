@@ -1,7 +1,4 @@
-/**
-*	mCard (HTML)
-*	Copyright © mCard by beshleyua. All Rights Reserved.
-**/
+
 
 $(function () {
 	'use strict';
