@@ -1170,6 +1170,7 @@ header .menu-btn span:after {
 	color: #363636;
 }
 
+
 .reviews-carousel .content-box p {
 	margin-bottom: 0;
 	font-style: italic;
@@ -1562,6 +1563,10 @@ header .menu-btn span:after {
 		height: 280px;
 	}
 
+}
+
+.text-black{
+	color:black;
 }
 
 .alert-success {
