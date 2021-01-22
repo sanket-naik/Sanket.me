@@ -35,7 +35,7 @@ $(function () {
 					}
 				},
 				"opacity": {
-					"value": 0.5,
+					"value": .5,
 					"random": false,
 					"anim": {
 						"enable": false,
@@ -45,7 +45,7 @@ $(function () {
 					}
 				},
 				"size": {
-					"value": 2,
+					"value": 3,
 					"random": true,
 					"anim": {
 						"enable": false,
@@ -58,7 +58,7 @@ $(function () {
 					"enable": true,
 					"distance": 150,
 					"color": "#ffffff",
-					"opacity": 0.4,
+					"opacity": 0.7,
 					"width": 1
 				},
 				"move": {
@@ -80,11 +80,11 @@ $(function () {
 				"detect_on": "canvas",
 				"events": {
 					"onhover": {
-						"enable": false,
+						"enable": true,
 						"mode": "repulse"
 					},
 					"onclick": {
-						"enable": false,
+						"enable": true,
 						"mode": "push"
 					},
 					"resize": true
